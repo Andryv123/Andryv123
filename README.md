@@ -1,4 +1,4 @@
-- helio im andryv
+helio im andryv
 - interests: source engin, coding, php (suprisingly), makin revival :3
 - im currently still learnin php since i learn everydey
 - im not lookin to collab for now, i amateur
